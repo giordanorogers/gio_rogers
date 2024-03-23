@@ -1,0 +1,17 @@
+/* styles.css file content */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+h1, h3, h4 {
+    text-align: center;
+}
+p {
+    text-indent: 20px;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+/* Add more styles as needed */
